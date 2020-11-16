@@ -1,4 +1,9 @@
 channels:
   - conda-forge
+  - matplotlib
 dependencies:
   - appmode
+  - pandas
+  - pyplot
+  - numpy
+  - seaborn
